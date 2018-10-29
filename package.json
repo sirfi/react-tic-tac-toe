@@ -2,7 +2,7 @@
   "name": "tictactoe",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sirfi.github.io/react-examples/cls",
+  "homepage": "https://sirfi.github.io/react-tic-tac-toe",
   "dependencies": {
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
