@@ -29,6 +29,13 @@ ol, ul {
   cursor: pointer;
 }
 
+.square.x{
+  color: #1ca8fc;
+}
+.square.o{
+  color: #444444;
+}
+
 .square:focus {
   outline: none;
 }
